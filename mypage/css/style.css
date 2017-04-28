@@ -62,5 +62,8 @@ h1{
 .main{
 	height: 1000px;
 	padding-top: 1000px;
-	color: #804000;
+}
+
+.main h1{
+	color: gray;
 }
